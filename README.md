@@ -11,4 +11,6 @@ mit Ue = 5V Eingangsspannung
 
 
 mögliches Beispiel:
+mit Zenerdiode 2.7V oder Spannungsteiler
+
 <img width="525" height="494" alt="image" src="https://github.com/user-attachments/assets/0011664d-7774-4551-a983-4cb00f791735" />
